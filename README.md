@@ -9,7 +9,6 @@ Assignment 4 Overview
 Project Structure
 How to Run
 Screenshot for Assignment 4
-License (Optional)
 Assignment 2 Overview
 
 For this assignment, I had to create an app with two activities: MainActivity and SecondActivity. MainActivity displays my full name and student ID, along with two buttons: "Start Activity Explicitly" and "Start Activity Implicitly". The first button directly starts SecondActivity, while the second button starts it via an implicit intent action. SecondActivity lists five mobile software engineering challenges and has a button that navigates back to MainActivity.
